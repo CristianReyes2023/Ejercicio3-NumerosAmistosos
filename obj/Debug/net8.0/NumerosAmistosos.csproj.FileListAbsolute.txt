@@ -1,0 +1,14 @@
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\bin\Debug\net8.0\NumerosAmistosos.exe
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\bin\Debug\net8.0\NumerosAmistosos.deps.json
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\bin\Debug\net8.0\NumerosAmistosos.runtimeconfig.json
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\bin\Debug\net8.0\NumerosAmistosos.dll
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\bin\Debug\net8.0\NumerosAmistosos.pdb
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.AssemblyInfo.cs
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.dll
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\refint\NumerosAmistosos.dll
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.pdb
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\NumerosAmistosos.genruntimeconfig.cache
+C:\Users\user\Documents\CristianReyesPrueba\NumerosAmistosos\obj\Debug\net8.0\ref\NumerosAmistosos.dll

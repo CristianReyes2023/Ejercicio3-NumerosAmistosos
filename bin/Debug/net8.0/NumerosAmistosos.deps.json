@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NumerosAmistosos/1.0.0": {
+        "runtime": {
+          "NumerosAmistosos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumerosAmistosos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
